@@ -18,7 +18,7 @@ Python Libraries: pandas, matplotlib, seaborn, plotly
 
 Environment: Jupyter Notebook / Google Colab
 
-## **Project Steps## **## **
+## **Project Steps**
 
   1. Data Cleaning – Handled missing values and standardized columns
 
