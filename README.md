@@ -16,7 +16,7 @@ This project analyzes Airbnb listings data to uncover insights on pricing, room 
 
 Python Libraries: pandas, matplotlib, seaborn, plotly
 
-Environment: Jupyter Notebook / Google Colab
+Environment:  Google Colab
 
 ## **Project Steps**
 
